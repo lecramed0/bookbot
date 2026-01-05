@@ -1,1 +1,7 @@
+# typ
+__pycache__/
+.env
+
+# data
 /books
+
